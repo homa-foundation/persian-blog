@@ -54,6 +54,6 @@ https://forum.xda-developers.com/t/driver-10-0-adreno-600-series-opengl-vulkan-d
 ### Turnip
 a Vulkan driver for Adreno 500 and 600 series GPU called Turnip, also referred to as Freedreno_vk (Freedreno Vulkan) in the code.  
 https://github.com/Heasterian/mesa-turnip-kgsl  
-https://www.phoronix.com/scan.php?page=news_item&px=TURNIP-KGSL-Vulkan-Bringup
-
+https://www.phoronix.com/scan.php?page=news_item&px=TURNIP-KGSL-Vulkan-Bringup  
+https://forum.xda-developers.com/t/getting-freedreno-turnip-mesa-vulkan-driver-on-a-poco-f3.4323871/  
 

@@ -5,6 +5,14 @@ https://wiki.debian.org/MaliGraphics
 
 
 
+## نرم افزارها
+https://www.mesa3d.org/  
+
+
+
+
+
+
 ## سخت افزارها    
 PinePhone Pro Explorer Edition  
 https://pine64.com/product/pinephone-pro-explorer-edition/  

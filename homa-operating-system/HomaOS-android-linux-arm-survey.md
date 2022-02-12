@@ -19,3 +19,6 @@ https://www.96boards.org/product/hikey960/
 Huawei-smartphone p10 plus  
 https://www.alibaba.com/product-detail/Original-unlocked-Main-Motherboard-For-Huawei_62424643542.html?spm=a2700.7724857.normal_offer.d_title.75c87e1fvwBNrs
 
+
+## Mali GPU
+https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/midgard-kernel

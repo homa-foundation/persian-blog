@@ -13,7 +13,7 @@ https://halium.org/
 ## Android/linux  kernels  
 https://github.com/LineageOS/android_kernel_nokia_sdm660/  
 https://github.com/ubports-nokia-sdm660  
-
+https://github.com/MiCode/Xiaomi_Kernel_OpenSource
 
 
 ## نرم افزارها

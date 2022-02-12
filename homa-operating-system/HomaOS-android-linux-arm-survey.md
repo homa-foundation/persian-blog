@@ -5,6 +5,12 @@ https://wiki.debian.org/MaliGraphics
 
 
 ## نرم افزارها
+
+### LinuxDepoloy
+Install and run GNU/Linux on Android
+
+
+
 In case of open source graphic drivers, the most recent version of Mesa is highly recommended.  
 https://www.mesa3d.org/  
 

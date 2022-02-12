@@ -31,3 +31,4 @@ https://www.phoronix.com/scan.php?page=news_item&px=MSM-DRM-For-Linux-5.17
 https://www.phoronix.com/scan.php?page=news_item&px=MSM-DRM-For-Linux-5.12  
 https://lwn.net/Articles/832838/  
 https://sourcedigit.com/23494-kernel-4-19-released-install-linux-kernel-4-19-on-ubuntu/  
+https://www.phoronix.com/scan.php?page=news_item&px=Chromebooks-Mesa-QLCM  

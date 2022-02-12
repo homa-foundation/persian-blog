@@ -27,6 +27,7 @@ https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/mi
 
 
 ## Adreno GPU  
+https://github.com/freedreno/freedreno/wiki
 https://www.phoronix.com/scan.php?page=news_item&px=MSM-DRM-For-Linux-5.17  
 https://www.phoronix.com/scan.php?page=news_item&px=MSM-DRM-For-Linux-5.12  
 https://www.phoronix.com/scan.php?page=news_item&px=Chromebooks-Mesa-QLCM  

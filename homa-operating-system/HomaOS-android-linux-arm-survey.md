@@ -83,6 +83,7 @@ https://forum.xda-developers.com/t/getting-freedreno-turnip-mesa-vulkan-driver-o
 https://en.wikipedia.org/wiki/Librem_5  
 https://www.pine64.org/pinephone/  
 https://cutiepi.io/  
+https://www.morello-project.org/
 
 ## Related companies and providers  
 https://www.toradex.com/products/  

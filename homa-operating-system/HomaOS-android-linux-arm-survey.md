@@ -12,6 +12,11 @@ chamferwm: A tiling window manager with Vulkan based compositor
 https://jaelpark.github.io/chamferwm-docs/
 
 
+### Android wayland  
+https://github.com/termux/termux-x11  
+https://github.com/twaik/sparkle  md 
+
+
 
 
 ## سخت افزارها    

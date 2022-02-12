@@ -2,16 +2,14 @@
 پشتیبانی دبیان از درایورهای کارت‌های گرافیک Mali  
 https://wiki.debian.org/MaliGraphics
 
-chamferwm: A tiling window manager with Vulkan based compositor  
-https://jaelpark.github.io/chamferwm-docs/
-
 
 
 ## نرم افزارها
 In case of open source graphic drivers, the most recent version of Mesa is highly recommended.  
 https://www.mesa3d.org/  
 
-
+chamferwm: A tiling window manager with Vulkan based compositor  
+https://jaelpark.github.io/chamferwm-docs/
 
 
 

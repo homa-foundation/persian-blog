@@ -22,4 +22,5 @@ https://www.alibaba.com/product-detail/Original-unlocked-Main-Motherboard-For-Hu
 
 ## Mali GPU 
 https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers  
+https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/display-drivers
 https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/midgard-kernel

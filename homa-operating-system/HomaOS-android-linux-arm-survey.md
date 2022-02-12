@@ -7,4 +7,5 @@ https://wiki.debian.org/MaliGraphics
 PinePhone Pro Explorer Edition  
 https://pine64.com/product/pinephone-pro-explorer-edition/  
 
-HiKey 960 is the powered by the latest Kirin 960 SoC
+HiKey 960 is the powered by the latest Kirin 960 SoC  
+Huawei-smartphone p10 plus

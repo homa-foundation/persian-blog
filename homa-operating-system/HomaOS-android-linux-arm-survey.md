@@ -32,4 +32,5 @@ https://www.phoronix.com/scan.php?page=news_item&px=MSM-DRM-For-Linux-5.17
 https://www.phoronix.com/scan.php?page=news_item&px=MSM-DRM-For-Linux-5.12  
 https://www.phoronix.com/scan.php?page=news_item&px=Chromebooks-Mesa-QLCM  
 https://lwn.net/Articles/832838/  
-https://sourcedigit.com/23494-kernel-4-19-released-install-linux-kernel-4-19-on-ubuntu/  
+https://sourcedigit.com/23494-kernel-4-19-released-install-linux-kernel-4-19-on-ubuntu/    
+https://forum.xda-developers.com/t/driver-10-0-adreno-600-series-opengl-vulkan-drivers-v-0481-0-1-1-128.4089967/  

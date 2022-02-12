@@ -74,3 +74,4 @@ https://cutiepi.io/
 
 ## Related companies and providers  
 https://www.toradex.com/products/  
+https://www.alibaba.com/product-detail/Original-unlocked-Mainboard-Motherboard-for-nokia_1600174941649.html

@@ -24,3 +24,7 @@ https://www.alibaba.com/product-detail/Original-unlocked-Main-Motherboard-For-Hu
 https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers  
 https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/display-drivers
 https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/midgard-kernel
+
+
+## Adreno GPU  
+https://www.phoronix.com/scan.php?page=news_item&px=MSM-DRM-For-Linux-5.17  

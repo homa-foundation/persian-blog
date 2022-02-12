@@ -88,3 +88,7 @@ https://www.morello-project.org/
 ## Related companies and providers  
 https://www.toradex.com/products/  
 https://www.alibaba.com/product-detail/Original-unlocked-Mainboard-Motherboard-for-nokia_1600174941649.html
+
+
+## Tuts  
+https://www.linaro.org/blog/let-s-boot-the-mainline-linux-kernel-on-qualcomm-devices/  

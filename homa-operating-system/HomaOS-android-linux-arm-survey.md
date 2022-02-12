@@ -25,7 +25,10 @@ https://github.com/twaik/sparkle  md
 
 
 
-## سخت افزارها    
+## سخت افزارها
+https://developer.qualcomm.com/hardware/snapdragon-835-hdk   
+
+
 PinePhone Pro Explorer Edition  
 https://pine64.com/product/pinephone-pro-explorer-edition/  
 

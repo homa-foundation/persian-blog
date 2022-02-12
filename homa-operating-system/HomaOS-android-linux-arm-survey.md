@@ -2,6 +2,8 @@
 پشتیبانی دبیان از درایورهای کارت‌های گرافیک Mali  
 https://wiki.debian.org/MaliGraphics
 
+chamferwm: A tiling window manager with Vulkan based compositor
+https://jaelpark.github.io/chamferwm-docs/
 
 
 

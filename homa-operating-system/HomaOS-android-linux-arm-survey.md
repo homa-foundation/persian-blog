@@ -66,3 +66,7 @@ https://github.com/Heasterian/mesa-turnip-kgsl
 https://www.phoronix.com/scan.php?page=news_item&px=TURNIP-KGSL-Vulkan-Bringup  
 https://forum.xda-developers.com/t/getting-freedreno-turnip-mesa-vulkan-driver-on-a-poco-f3.4323871/  
 
+
+## Open source smartphone platforms
+https://en.wikipedia.org/wiki/Librem_5
+

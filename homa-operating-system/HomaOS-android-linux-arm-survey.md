@@ -28,3 +28,4 @@ https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/mi
 
 ## Adreno GPU  
 https://www.phoronix.com/scan.php?page=news_item&px=MSM-DRM-For-Linux-5.17  
+https://lwn.net/Articles/832838/

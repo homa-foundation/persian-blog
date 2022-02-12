@@ -8,6 +8,7 @@ https://jaelpark.github.io/chamferwm-docs/
 
 
 ## نرم افزارها
+In case of open source graphics, the most recent version of Mesa is highly recommended.  
 https://www.mesa3d.org/  
 
 

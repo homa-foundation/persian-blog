@@ -4,6 +4,12 @@ https://wiki.debian.org/MaliGraphics
 
 
 
+## Halium  
+Halium is the collaborative project to unify the Hardware Abstraction Layer for projects which run GNU/Linux on mobile devices with pre-installed Android.  
+https://halium.org/
+
+
+
 ## نرم افزارها
 
 ### LinuxDepoloy

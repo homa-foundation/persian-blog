@@ -70,3 +70,6 @@ https://forum.xda-developers.com/t/getting-freedreno-turnip-mesa-vulkan-driver-o
 ## Open source smartphone platforms
 https://en.wikipedia.org/wiki/Librem_5
 
+
+## Related companies and providers
+https://www.toradex.com/products/
